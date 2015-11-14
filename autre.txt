@@ -1,3 +1,5 @@
 ceci est un fichier txt de qualité
 
 voilà maintenant le premier modification sur GITHUB
+
+mais aussi depuis ma machine local
